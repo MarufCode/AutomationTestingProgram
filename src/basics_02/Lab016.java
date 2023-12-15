@@ -18,7 +18,7 @@ public class Lab016 {
 
         String firstname = "Maruf";
         String lastname = "Sherikar";
-        System.out.println(firstname + lastname);
+        System.out.println(firstname + " " + lastname);
 
 
         int a1 = +10;
