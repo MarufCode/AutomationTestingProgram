@@ -10,5 +10,6 @@ public class Lab046 {
         }
             System.out.println("This is outside loop code it will execute always");
 
+
     }
 }

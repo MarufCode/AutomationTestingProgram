@@ -7,16 +7,18 @@ public class Lab048 {
 
         // Take two input from user and give maximum out of two number
 
-        Scanner sc = new Scanner (System.in);
+        Scanner sc = new Scanner(System.in);
         System.out.println("enter the a and b");
 
         int a = sc.nextInt();
         int b = sc.nextInt();
 
-        if(a>b){
+        if (a > b) {
             System.out.println("Max" + " " + a);
-        }else{
+        } else {
             System.out.println("Max" + " " + b);
+
         }
     }
 }
+
