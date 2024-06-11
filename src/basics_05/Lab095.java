@@ -19,14 +19,14 @@ public class Lab095 {
         // A -> int i = 1;
         // B -> i <=number or i < =5
         // C -> i++
-        // D -> fact = fact+i
+        // D -> fact = fact+iint i=1;
+        ////        while(i<=number){
+        ////            fact = fact*i;
+        ////            i++;
+        ////        }
+        ////        System.out.pr
 
-//        int i=1;
-//        while(i<=number){
-//            fact = fact*i;
-//            i++;
-//        }
-//        System.out.println("Fact -> "+ fact);
+//        intln("Fact -> "+ fact);
 
 
         for (int j = 1; j <= number ; j++) {
