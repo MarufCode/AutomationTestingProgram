@@ -22,6 +22,14 @@ public class Lab106 {
 
 
 
+
+
+
+
+
+
+
+
         int i = 0;
         while (i<marks.length){
             System.out.println(marks[i]);
