@@ -39,11 +39,14 @@ public class Lab053 {
                         }
                         if(score >= 80 && score  <= 89){
                             System.out.println("You grade -> B");
-                        } if (score >=70 && score <=79) {
+                        }
+                        if (score >=70 && score <=79) {
                             System.out.println("You grade -> C");
-                        }  if (score >=60 && score <= 69) {
+                        }
+                        if (score >=60 && score <= 69) {
                             System.out.println("You grade -> D");
-                        }if(score>=0 && score <=59){
+                        }
+                        if(score>=0 && score <=59){
                             System.out.println("You score -> F");
                         }
 
