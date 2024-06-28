@@ -15,6 +15,7 @@ public class Lab112 {
         sayHello(); // call to the function
     }
 
+
    static int sum (int x, int y) {
        return x + y;
    }
