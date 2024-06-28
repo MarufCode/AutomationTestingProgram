@@ -1,4 +1,4 @@
-package src.oops_concept_24_06;
+package src.oops_concept_24_06.basics;
 
 
 public class Lab133 {
