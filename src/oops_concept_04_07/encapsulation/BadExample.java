@@ -1,11 +1,10 @@
 package src.oops_concept_04_07.encapsulation;
 
 public class BadExample {
-
     public static void main(String[] args) {
 
-    vwoLogin vwoLogin = new vwoLogin("admin","admin");
-    // admin and admin
+        vwoLogin vwoLogin = new vwoLogin("admin","admin");
+        // admin and admin
 
 
         boolean check = vwoLogin.isLoggedIn("admin","password");
@@ -14,7 +13,7 @@ public class BadExample {
         boolean check2 = vwoLogin.isLoggedIn("admin","password");
         System.out.println(check2);
 
-}
+    }
 
 
 }
