@@ -1,4 +1,4 @@
-package src.oops_concept_04_07;
+package src.oops_concept_04_07.poly;
 
 public class LAb149 {
     public static void main(String[] args) {

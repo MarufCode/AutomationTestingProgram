@@ -1,7 +1,5 @@
 package src.oops_concept_04_07.encapsulation;
 
-import src.oops_concept_04_07.BlockClass;
-
 public class LAb150 {
     public static void main(String[] args) {
 
