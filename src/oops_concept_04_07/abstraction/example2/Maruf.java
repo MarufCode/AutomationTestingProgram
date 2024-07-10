@@ -17,6 +17,6 @@ public class Maruf extends Father {
     }
 
     void loanSettle(){
-        System.out.println("I dont want any lotteries amount");
+        System.out.println("I dont want any lottery amount");
     }
 }
