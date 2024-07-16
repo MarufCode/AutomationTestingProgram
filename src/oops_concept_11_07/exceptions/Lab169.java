@@ -3,13 +3,12 @@ package src.oops_concept_11_07.exceptions;
 public class Lab169 {
 
     // Thorws and customeExcpetipon// Learn in the NExt Class
-    // 1 Lecture - Multi Threading self paced - This week
+
 
 
     public static void main(String[] args) {
-    extracted2();
+        extracted2();
         System.out.println("Main executed");
-
     }
     public static void extracted2(){
         extracted1();
@@ -25,7 +24,7 @@ public class Lab169 {
         try {
             String name = null;
             name.length();
-        }catch (Exception e){
+        } catch (Exception e){
             System.out.println(e.getMessage());
         }
     }
