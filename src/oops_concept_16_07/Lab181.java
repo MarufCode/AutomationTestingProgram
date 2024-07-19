@@ -16,9 +16,9 @@ public class Lab181 {
 
 
         //        Vector v = new Vector<>();
-//        v.add("praMOD"); - t1
-//        v.add("aMIT"); - t1
-//        v.add("lUCKY"); t1
+//        v.add("maRUF"); - t1
+//        v.add("maHIbhAI"); - t1
+//        v.add("VICKY"); t1
 
 
 
